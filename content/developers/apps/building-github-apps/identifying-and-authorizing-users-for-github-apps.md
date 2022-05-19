@@ -1,4 +1,4 @@
----
+CHOU
 title: Identifying and authorizing users for GitHub Apps
 intro: '{% data reusables.shortdesc.identifying_and_authorizing_github_apps %}'
 redirect_from:
